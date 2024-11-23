@@ -40,3 +40,29 @@ Exemplo: "Você perdeu 2 kg nas últimas duas semanas, continue assim!"
 
 Metas Personalizadas: O usuário pode definir uma meta de peso, e o sistema ajudará a monitorar o progresso.
 Exemplo: "Faltam apenas 3 kg para atingir sua meta de peso!"
+
+# 📚 **MysteriousApp** - Feedback do Projeto
+#### Quais aspectos do trabalho mais se destacaram?
+O fato de se tratar de um projeto real chamou bastante atenção. Isso não só confere autenticidade e relevância ao trabalho, mas também cria um nível de envolvimento único,
+pois a equipe estará atendendo a uma necessidade já identificada e contando com o acompanhamento do product owner para o direcionamento do desenvolvimento.
+No geral, a apresentação do projeto está muito bem estruturada, e os objetivos estão bem definidos.
+
+---
+
+#### Houve algum artefato especialmente bem elaborado ou criativo?
+O mapa de empatia se destacou, pois retrata a persona de maneira clara e compreensível, evidenciando que as funcionalidades estão alinhadas com as necessidades tanto do gestor quanto do cliente. Além disso, a apresentação visual do artefato está muito bem feita, tornando a análise mais agradável e de fácil compreensão. A pesquisa de mercado também se apresenta bem estruturada, com uma explicação do contexto que facilita o entendimento da solução proposta.
+
+---
+
+#### O que poderia ser ajustado para melhorar a clareza, organização ou qualidade dos artefatos? Algum ponto ficou confuso ou faltando informações relevantes?
+Seria interessante aprofundar um pouco mais nas funcionalidades inovadoras que o MysteriousApp pode oferecer, destacando o que realmente o diferencia dos concorrentes e, especialmente, o que tornaria o aplicativo atraente e valioso para os usuários. Por exemplo, seria útil detalhar em um dos documentos como o projeto agrega valor por meio de uma experiência única de compra, em que o usuário escolhe um tema e recebe um livro surpresa, sem saber exatamente qual título será entregue.
+
+---
+
+#### Os artefatos estão consistentes entre si? Refletem bem o objetivo do projeto e o público-alvo?
+Sim. Os documentos mantêm uma consistência entre si, sendo claros e objetivos sobre o problema a ser solucionado, como o aplicativo pretende solucioná-lo e os desafios que a empresa terá que superar no desenvolvimento do aplicativo. O público alvo também é refletido neles, especialmente nas personas e mapa de empatia.
+
+---
+
+#### O que pode ser feito para tornar o trabalho ainda melhor? Alguma ideia ou recurso adicional para explorar?
+Para melhorar o trabalho, seria útil detalhar mais as funcionalidades inovadoras que diferenciam o MysteriousApp, como um sistema de recomendações personalizadas e gamificação. Melhorar a comunicação visual dos artefatos com protótipos ou infográficos pode aumentar o impacto. Além disso, explorar recursos como troca de livros entre usuários ou integração com redes sociais ajudaria a engajar mais o público e destacar o valor do projeto.
